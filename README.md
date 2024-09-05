@@ -36,7 +36,7 @@ Training involves the following steps:
 
 ## Results and Evaluation
 
-The training process results in a final model with an accuracy of 92.69% on the training data. The learning curves indicate effective learning without significant overfitting. The learning rate adjustment observed in the curves suggests a dynamic approach to training, although typically the learning rate would decrease over time.
+The training process results in a final model with an accuracy of 92.69% on the test data. The learning curves indicate effective learning without significant overfitting. The learning rate adjustment observed in the curves suggests a dynamic approach to training, although typically the learning rate would decrease over time.
 
 Validation accuracy remains high throughout training, suggesting that the model generalizes well on unseen data. The performance on the test set has not been explicitly mentioned in this discussion and should be evaluated to confirm the model's effectiveness on completely new data.
 
